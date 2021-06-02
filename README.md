@@ -1,6 +1,6 @@
 # About me
 
-Hi, this is Calvin. A recent graduate student from University of Toronto study statistics and mathematics.
+Hi, this is Calvin. A recent graduate student from University of Toronto study statistics and mathematics. \n
 I'm really interested in data science. I am still very new to this field and continue my progress to learn more in data science,
 
 # [Case study : Bike-share data analysis](https://github.com/CaIvin-Chiu/Bike-share-data-analysis)
