@@ -1,6 +1,6 @@
 # About me
 
-Hi, this is Calvin. A recent graduate student from University of Toronto study statistics and mathematics.<br/>
+Hi, this is Calvin. A recent graduated student from University of Toronto study statistics and mathematics.<br/>
 I'm really interested in data science. <br/>
 I am still very new to this field and continue my progress to learn more in data science.
 
