@@ -1,8 +1,8 @@
 # About me
 
 Hi, this is Calvin. A recent graduated student from University of Toronto study statistics and mathematics.<br/>
-I'm really interested in data science. <br/>
-I am still very new to this field and continue my progress to learn more in data science.
+I'm really interested in data analytics. <br/>
+I am still very new to this field and continue my progress to learn more in data analytics.
 
 # [Case study : Bike-share data analysis](https://github.com/CaIvin-Chiu/Bike-share-data-analysis)
 * Goal : Design marketing strategies aimed at converting casual riders into annual members.
