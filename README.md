@@ -1,6 +1,6 @@
 # About me
 
-Hi, I am Calvin. I graduated from University of Toronto in year 2021. I study statistics and mathematics.<br/>
+Hi, I am Calvin. I graduated from University of Toronto in year 2021 and I study statistics and mathematics.<br/>
 I'm really interested in data analytics and machine learning and currently learn python. <br/>
 I am still very new to this field and continue my progress to learn more in data analytics.
 
